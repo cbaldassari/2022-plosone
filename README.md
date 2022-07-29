@@ -2,7 +2,7 @@
 Data Repository for the paper Marra, Baldassari 2022, PLOS ONE.
 
 # Article Title
-Using text data (instead of SIC codes) to tag innovative firms and classify industrial activities
+Using text data instead of SIC codes to tag innovative firms and classify industrial activities
 
 # Contents
 [tag_chieti-pescara.csv](https://github.com/cbaldassari/2022-plosone/files/7807924/tag_chieti-pescara.csv)
